@@ -1,0 +1,65 @@
+body{
+    background: linear-gradient(rgb(255, 236, 239), pink, rgb(145, 94, 145));
+}
+
+.nav-bar {
+    font-family: Great Vibes, cursive;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+
+.nav-bar h3 {
+    margin: 0;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    align-items: auto;
+    justify-content: auto;
+}
+
+#the_perfect_girl{
+    font-family: Great Vibes, cursive;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 150px;
+    font-size: 50px;
+    margin-right: 20px;
+}
+
+#line{
+    position: absolute;
+    top: 30px;
+    left: 575px;
+
+}
+
+
+#cat_pic{
+    margin-left: 100px;
+    height: 380px;
+    width: 373px;
+}
+
+#test{
+    font-family: Great vibes, cursive;
+    font-size: x-large;
+    color: black;
+    border: 1px;
+    width: 400px;
+    height: 250px;
+    position: absolute;
+    top: 280px;
+    left: 640px;
+}
+
+
+
+#temp{
+    margin-top: 90px;
+}
